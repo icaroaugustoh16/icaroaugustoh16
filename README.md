@@ -30,10 +30,11 @@ Sou um **Engenheiro de Software em formação** e estagiário na **Sisqualis**. 
 
 ### 📊 Estatísticas
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icaroaugustoh16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaroaugustoh16&layout=compact&theme=tokyonight"/>
-</div>
+### 📊 Estatísticas
+
+![Estatísticas do Ícaro](https://github-readme-stats.vercel.app/api?username=icaroaugustoh16&show_icons=true&theme=tokyonight)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=icaroaugustoh16&layout=compact&theme=tokyonight)
 
 ---
 <div align="center">
