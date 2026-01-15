@@ -71,12 +71,13 @@ const icaro = {
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icaroaugustoh16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaroaugustoh16&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=icaroaugustoh16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=icaroaugustoh16&theme=tokyonight" alt="GitHub Streak" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icaroaugustoh16&layout=compact&langs_count=8&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=icaroaugustoh16&theme=tokyonight)
+
 </div>
 
 ---
