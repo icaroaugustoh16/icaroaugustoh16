@@ -4,7 +4,7 @@
 
 ### Engenheiro de Software | Especialista em IA & Automação
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN-AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ícaro-augusto-00b567227/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:icarodpvat@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/icaroaugustoh16)
 
@@ -68,20 +68,6 @@ const icaro = {
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=icaroaugustoh16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icaroaugustoh16&layout=compact&langs_count=8&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=icaroaugustoh16&theme=tokyonight)
-
-</div>
-
----
-
 ## 🎯 Áreas de Especialização
 
 - 🤖 **Inteligência Artificial**: Desenvolvimento de agentes inteligentes com LLMs
@@ -99,7 +85,7 @@ const icaro = {
 
 Estou sempre aberto a colaborações interessantes e discussões sobre tecnologia!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN-AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ícaro-augusto-00b567227/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:icarodpvat@gmail.com)
 
 </div>
