@@ -2,7 +2,7 @@
 
 # Ícaro Augusto
 
-### Backend Developer | Software Engineer
+### Backend Developer | AI Engineer | Software Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ícaro-augusto-00b567227/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:icarodpvat@gmail.com)
@@ -14,7 +14,9 @@
 
 ## Sobre Mim
 
-Engenheiro de Software em formação pela UNINTER, atualmente estagiário na **Sisqualis**. Desenvolvo soluções backend robustas, APIs RESTful e integrações com Inteligência Artificial para automação de processos empresariais.
+Engenheiro de Software em formação pela UNINTER, atualmente estagiário na **Sisqualis**. Desenvolvo soluções backend robustas, APIs RESTful e **aplicações de Inteligência Artificial com LLMs** para automação de processos empresariais.
+
+Tenho experiência prática no desenvolvimento de **agentes inteligentes**, integrações com **Vector Databases**, e criação de pipelines de dados para soluções de IA conversacional.
 
 ---
 
@@ -42,6 +44,14 @@ Engenheiro de Software em formação pela UNINTER, atualmente estagiário na **S
 ![Evolution API](https://img.shields.io/badge/Evolution_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Chatwoot](https://img.shields.io/badge/Chatwoot-1F93FF?style=for-the-badge&logo=chatwoot&logoColor=white)
 
+### Inteligência Artificial & LLMs
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_Database-FF6F00?style=for-the-badge&logo=pinecone&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-00ADD8?style=for-the-badge&logo=ai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-9333EA?style=for-the-badge&logo=robot&logoColor=white)
+
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -61,11 +71,37 @@ Engenheiro de Software em formação pela UNINTER, atualmente estagiário na **S
 
 ---
 
+## 🚀 Projeto em Destaque
+
+### 🤖 Agente Inteligente WhatsApp
+
+Desenvolvimento de um **agente de IA conversacional** integrado ao WhatsApp para automação de processos empresariais na Sisqualis.
+
+**Tecnologias utilizadas:**
+- **LLMs**: Integração com APIs de modelos de linguagem (OpenAI/Anthropic)
+- **Vector Databases**: Armazenamento e busca semântica de informações
+- **RAG (Retrieval-Augmented Generation)**: Contextualização de respostas com base em documentos da empresa
+- **Multi-Agent Architecture**: Orquestração de múltiplos agentes especializados
+- **Evolution API**: Integração com WhatsApp Business
+- **N8N**: Workflows de automação e pipelines de dados
+- **FastAPI/Python**: Backend para processamento e APIs
+- **JavaScript/Node.js**: Integrações e serviços auxiliares
+
+**Funcionalidades:**
+- Atendimento automatizado e inteligente ao cliente
+- Consulta contextualizada em base de conhecimento corporativa
+- Escalação inteligente para atendentes humanos
+- Análise de sentimento e intenção do usuário
+- Logs e métricas para avaliação de qualidade (LLM-as-a-judge)
+
+---
+
 ## Áreas de Atuação
 
-- **Desenvolvimento Backend**: APIs RESTful, microsserviços e arquitetura de sistemas
-- **Inteligência Artificial**: Desenvolvimento de agentes inteligentes com LLMs
-- **Automação**: Workflows com N8N, Python e integrações via WhatsApp
+- **Engenharia de IA & LLMs**: Desenvolvimento de agentes inteligentes (Single/Multi-Agent), RAG, Vector Databases e pipelines de validação com LLM-as-a-judge
+- **Desenvolvimento Backend**: APIs RESTful com FastAPI/Django/Flask, microsserviços e arquitetura de sistemas
+- **Automação & Integrações**: Workflows com N8N, Python e integrações via WhatsApp (Evolution API)
+- **Pipelines de Dados**: ETL, processamento e análise de dados para aplicações de IA
 - **Desenvolvimento Full Stack**: Aplicações web com React, TypeScript e Node.js
 - **Sistemas de Baixo Nível**: Experiência com C/C++/C# (Launchers e Anti-cheats)
 
@@ -77,5 +113,13 @@ Engenheiro de Software em formação pela UNINTER, atualmente estagiário na **S
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ícaro-augusto-00b567227/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:icarodpvat@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=icaroaugustoh16&show_icons=true&theme=tokyonight&hide_border=true)
 
 </div>
