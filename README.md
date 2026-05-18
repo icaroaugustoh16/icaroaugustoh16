@@ -53,6 +53,7 @@ Entusiasta de **Inteligência Artificial e orquestração de agentes**, acompanh
 ![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Chatwoot](https://img.shields.io/badge/Chatwoot-1F93FF?style=for-the-badge&logo=chatwoot&logoColor=white)
 ![Evolution API](https://img.shields.io/badge/Evolution_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Meta API](https://img.shields.io/badge/Meta_API-0866FF?style=for-the-badge&logo=meta&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
 
 ### Frontend
@@ -89,7 +90,7 @@ Agente de IA conversacional para suporte corporativo, com integração omnicanal
 Participação no desenvolvimento de sistema de pré-triagem com Inteligência Artificial para a **Procempa — Empresa Pública de TIC da Prefeitura de Porto Alegre**, com aplicação direta na rede municipal de saúde.
 
 **Componentes:**
-- Agente conversacional via **WhatsApp Business API**
+- Agente conversacional via **WhatsApp Business Cloud API** (Meta)
 - **Dashboard interativo multiparâmetros** para apoio à decisão
 - Integração com o **e-SUS** (sistema nacional de saúde)
 - Pipelines de dados para análise e relatórios
