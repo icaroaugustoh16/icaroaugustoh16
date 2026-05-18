@@ -71,9 +71,9 @@ Entusiasta de **Inteligência Artificial e orquestração de agentes**, acompanh
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
-### 🤖 Agente Inteligente Corporativo — Sisqualis
+### Agente Inteligente Corporativo — Sisqualis
 
 Agente de IA conversacional para suporte corporativo, com integração omnicanal via WhatsApp e E-mail. Liderei a evolução da arquitetura de orquestração baseada em **N8N** para uma stack **Python-native** focada em escalabilidade, processamento assíncrono e maior controle sobre o ciclo de vida dos agentes.
 
@@ -85,7 +85,7 @@ Agente de IA conversacional para suporte corporativo, com integração omnicanal
 - **Vector Database + RAG** — busca semântica em base de conhecimento corporativa
 - **LLM-as-a-Judge** — pipeline de validação de qualidade das interações
 
-### 🏥 Sistema de Pré-Triagem com IA — Procempa (Prefeitura de Porto Alegre)
+### Sistema de Pré-Triagem com IA — Procempa (Prefeitura de Porto Alegre)
 
 Participação no desenvolvimento de sistema de pré-triagem com Inteligência Artificial para a **Procempa — Empresa Pública de TIC da Prefeitura de Porto Alegre**, com aplicação direta na rede municipal de saúde.
 
@@ -95,7 +95,7 @@ Participação no desenvolvimento de sistema de pré-triagem com Inteligência A
 - Integração com o **e-SUS** (sistema nacional de saúde)
 - Pipelines de dados para análise e relatórios
 
-### 📊 Automação ClickUp + LLM — Sisqualis
+### Automação ClickUp + LLM — Sisqualis
 
 Automação interna que gera e envia **resumos executivos diários** das tarefas do ClickUp, processados por IA. Conecta API do ClickUp, FastAPI, PostgreSQL e LLMs para entregar inteligência operacional sem intervenção humana.
 
@@ -111,7 +111,7 @@ Automação interna que gera e envia **resumos executivos diários** das tarefas
 
 ---
 
-## 📚 Estudos Atuais
+## Estudos Atuais
 
 Aprofundamento contínuo em **Inteligência Artificial Aplicada**, com foco em:
 
